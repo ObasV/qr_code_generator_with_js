@@ -33,3 +33,5 @@ This is a simple web application that generates QR codes from text input. Follow
 - ✅ Responsive design that works on mobile devices
 - ✅ Automatic clearing of input after generation
 
+
+The app is live on: https://obasv.github.io/qr_code_generator_with_js/
